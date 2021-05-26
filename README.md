@@ -1,17 +1,18 @@
 # Diversity Actor Critic
 
 This repository is an implementation of Diversity Actor-Critic: Sample-Aware Entropy Regularization for Sample-Efficient Exploration (ICML 2021)
-
+```
 @article{han2020diversity,
   title={Diversity Actor-Critic: Sample-Aware Entropy Regularization for Sample-Efficient Exploration},
   author={Han, Seungyul and Sung, Youngchul},
   journal={arXiv preprint arXiv:2006.01419},
   year={2020}
 }
+```
 
 ## Dependencies
 
-The implementation is based on the source code [SAC code](https://github.com/rail-berkeley/softlearning) of soft actor-critic [SAC](https://github.com/haarnoja/sac)
+The implementation is based on [the source code](https://github.com/rail-berkeley/softlearning) of soft actor-critic [SAC](https://github.com/haarnoja/sac)
 
 This implementation requires Anaconda / rllab / Mujoco / Tensorflow.
 
