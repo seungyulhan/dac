@@ -8,7 +8,6 @@ from dac.algos import DAC
 from dac.envs import (
     GymEnv,
     GymEnvDelayed,
-    GME_NP_pure,
 )
 
 from dac.misc.instrument import run_sac_experiment
