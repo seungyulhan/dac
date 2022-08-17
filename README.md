@@ -32,7 +32,6 @@ export PYTHONPATH=$<install_path>:${PYTHONPATH}
 2. Create conda environment and add path:
 ```
 conda create -n dac python=3.6
-export PATH="/home/<user_name>/anaconda3/envs/dac/bin:$PATH"
 ```
 
 3. Install libraries and packages:
